@@ -20,18 +20,18 @@ Tuto čtvrť naprosto zbožňujeme pro její živou atmosféru, skvělé kavárn
 ### 🥾 Naše zájmy, sport a volný čas
 Jsme velmi aktivní, sportovně založení a milujeme přírodu. Volný čas trávíme v pohybu na čerstvém vzduchu:
 
-* **Hory a turistika:** Naprosto zbožňujeme **hiking (turistiku)**. Rádi objevujeme krásy české přírody i zahraniční hory. Nedávno jsme například zdolali nejdelší visutý most pro pěší v ČR (Sky Bridge 721).
+* **Hory a turistika:** Milujeme **hiking (turistiku)**. 
 * **Jaro–Podzim:** Běháme a jezdíme na kolech.
-* **Zima:** Milujeme běžky a sjezdové lyžování. Téměř každý zimní víkend trávíme v Jizerských horách nebo Krkonoších.
+* **Zima:** Milujeme běžky lyžování. Téměř každý zimní víkend trávíme v Jizerských horách.
 
-> 💡 *Pokud je k bytu k dispozici sklep (sklepní kóje) nebo bezpečná kolárna pro uložení našich kol a lyží, je to pro nás obrovské plus!*
+> 💡 *Pokud je k bytu k dispozici sklep (sklepní kóje) pro uložení našich kol a lyží, je to pro nás obrovské plus!*
 
 ---
 
 ### 📸 Pár fotek z našich cest
 
 <p align="center">
-  <img src="most-morava.jpg" height="300px" alt="Sky Bridge 721 v ČR" />
+  <img src="lyze2.jpg" height="300px" alt="Sky Bridge 721 v ČR" />
   <img src="skialp-rakousko.jpg" height="300px" alt="Hiking v Rakousku" />
 </p>
 <p align="center"><em>Naše horské výšlapy: na nejdelším visutém mostě v ČR a na treku v rakouských Alpách.</em></p>
