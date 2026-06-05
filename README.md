@@ -6,7 +6,7 @@ Dobrý den! Jsme manželský pár a hledáme útulný byt v Praze, ideálně v K
 
 ### 🧑‍💻 Kdo jsme?
 * **Věk:** 38 a 37 let (manželé)
-* **Profese:** Oba pracujeme v **IT sektoru** (stabilní příjem, doložitelná pracovní historie).
+* **Profese:** Oba pracujeme v **IT sektoru** 
 * **Zvířata & Děti:** Bez dětí, bez domácích mazlíčků.
 * **Kouření:** Nekuřáci.
 
